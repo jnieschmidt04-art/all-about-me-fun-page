@@ -1,0 +1,54 @@
+
+}
+body {
+    font-size: 16px;
+    font-family: cursive;
+    font-display: fallback;
+}
+
+.colorpurple {
+    color: purple;
+}
+
+.colorpink {
+    color: pink;
+}
+
+h1 {
+    background-color: pink;
+}
+
+img {
+    border: 5px solid pink;
+}
+
+p {
+    background-color: lightblue;
+    height: 250px;
+    width: 500px;
+}
+img {
+  border: 1px solid black;
+  border-radius: 25px;
+p {
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    margin-right: 40px;
+
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 0;
+
+    border: 1px solid black;
+}
+h1 {
+    height: 300px;
+    color: white;
+    border: 1px solid black;
+    background-image: url("field.of.peonies.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
